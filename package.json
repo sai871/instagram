@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "instagram-api": "^1.0.3",
+    "instagram-node": "^0.5.8"
+  }
+}
